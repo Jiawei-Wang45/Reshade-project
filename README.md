@@ -1,4 +1,4 @@
-﻿# Reshade-project\
+﻿# Reshade-project
 Introduction:\
   Here are two filters effect created by me on Reshade. One is Edge detection based on depth and another is the fog simulation. Details about implementation are shown in respective pdf documents. You can check out to see basic principle and inspiration behind them.\
 How to use:\
